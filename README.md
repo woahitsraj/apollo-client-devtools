@@ -1,6 +1,7 @@
 # Apollo Client Devtools
 
-[Download for Chrome](https://chrome.google.com/webstore/detail/apollo-client-developer-t/jdkknkkbebbapilgoeccciglkfbmbnfm) | (Download for Firefox temporarily disabled, it was removed from the Firefox store until the usage of `eval` is removed)
+## This fork is being maintained by me to release an unlisted version for FireFox.
+[Download for Chrome](https://chrome.google.com/webstore/detail/apollo-client-developer-t/jdkknkkbebbapilgoeccciglkfbmbnfm) | [Download for Firefox](https://github.com/acrogenesis/apollo-client-devtools/releases/),
 
 This repository contains the Apollo DevTools extension for Chrome & Firefox.
 
