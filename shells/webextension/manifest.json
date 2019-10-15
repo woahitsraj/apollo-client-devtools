@@ -32,8 +32,8 @@
   "manifest_version": 2,
   "browser_specific_settings": {
     "gecko": {
-      "id": "apollo-client-devtools@acrogenesis.com",
-      "update_url": "https://raw.githubusercontent.com/acrogenesis/apollo-client-devtools/master/updates.json"
+      "id": "apollo-client-devtools-2.5.5@rajs.io",
+      "update_url": "https://raw.githubusercontent.com/woahitsraj/apollo-client-devtools/master/updates.json"
     }
   }
 }
